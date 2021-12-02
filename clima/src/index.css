@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    margin: 0 auto;
+    max-width: 1440;
+    min-width: 360;
+}
+.cabeza{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    background-color: darkblue;
+    justify-content: space-evenly;
+    float: left;
+    
+}
+.h1{
+    margin-top: 50px;
+    margin-left: 10px;
+    color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+
+
+ul li{    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    
+}
+.XD{
+    
+    background-color: lightcyan;
+    float: left;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+
+.caja{
+    width: 40%;
+    float: left;
+    margin: 1%;
+    background-color:lightblue;
+    padding: 20px;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 1%;
+    
+}
+
+.caja a{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+#sec{
+    width: 100%;
+    
+    margin: 1%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+    margin: 0 auto;
+    background-color: skyblue;
+    font-size: 20px;
+    
+    color:crimson;
+}
+
+#c{
+    
+    width: 100%;
+    
+    float: left;
+}
+
+.box{
+    width: 32%;
+    background-color: aquamarine;
+    margin: 8px;
+    float: left;
+}
+
+
